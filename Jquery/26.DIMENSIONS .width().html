@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="DJ">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+		$(document).ready(function(){ // Basic Syntax
+		    $("button").click(function(){
+		    var vp="width ";
+			vp+="of the div is " + $("#square").width();
+			$("#square").html(vp);
+		});
+   });
+
+</script>
+
+
+<style>
+
+#square {
+	  height:200px;
+	  width: 200px;
+	  padding: 10px 0 0 10px;	
+	  background-color: #ff4800;
+	  color: white;
+}
+</style>
+
+<div id="square"></div>
+ <button>Release the Hounds</button>
+
+</body>
+</html>

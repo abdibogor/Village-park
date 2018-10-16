@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="DJ">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="description" content="Jquery/>
+<meta name="keywords" content="Jquery"/>
+<meta name="author" content="abdibogoreh"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href=""/>
+<link rel="stylesheet" type="text/css" href=""/>
+<link rel="start" href=""/>
+</head>
+<body>
+<script type="text/javascript">
+</script>
+</body>
+</html> 

@@ -1,0 +1,7 @@
+Xhtml
++
+CSS
++
+Javascript = HTML5
+
+HTML 5 (formerly spelled HTML5[a]) is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard, and subsumes XHTML.

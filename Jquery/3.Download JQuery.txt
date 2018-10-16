@@ -1,0 +1,10 @@
+Jquery.com
+
+1.click download Jquery
+
+2.click Download the compressed production jQuery 3.31
+
+  https://code.jquery.com/jquery-3.3.1.js
+  <script type="text/javascript">
+		alert("Village Park Source" + window.jQuery.fn.jquery);
+   </script>

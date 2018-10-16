@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="DJ">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+		$(document).ready(function(){ // Basic Syntax
+		    $("button").click(function(){
+			$("#ajax").load("ajax.txt");
+		});
+   });
+
+</script>
+
+
+<style>
+
+#square {
+	  height: 400px;
+	  width: 200px;
+	  padding-left:10px;	
+	  background-color: #ff4800;
+	  color: white;
+	  border: 20px black solid;
+	  margin-left:50px;
+}
+
+#ajax {
+	 
+}
+</style>
+
+<div id="ajax"></div>
+ <button>Release the Hounds</button>
+
+</body>
+</html>

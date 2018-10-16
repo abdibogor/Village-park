@@ -1,0 +1,238 @@
+/*
+author:Abdibogoreh
+version: 7.5.6
+*/
+
+/**** External Style Sheet ***/
+p{
+	font-size: 16px;
+	font-family: helvetica;
+}
+
+/*** 7.CSS Reset File ***/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+   /*8.background-image size*/
+	background-image:url("images.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000; 
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+/**** 11.CSS3 The Wrapper ***/
+#wrapper {
+		width: 900px;
+		margin: 0px auto;
+		background-color:white;
+		min-height:600px;
+}
+
+#logo{
+	   float:left;
+}
+
+/*** 12.Navigation Bar ***/
+#topnav {
+	 clear:both;
+}
+
+#topnav li{
+	      display:inline;
+		  font-family: helvetica;
+		  font-size: 20px;
+		  margin: 0px 20px;		  
+}
+
+#topnav ul{
+	    border-top: 2px #000000 solid;
+		border-bottom: 2px #000000 solid;
+		margin: 30px 15px;
+		padding: 10px 0px;
+}
+
+/*** 14. Soc. Media Icons ***/
+#social{
+	    float:right;
+}
+
+#social ul {
+	    margin-top: 10px;
+}
+
+#social li {
+	    display: inline;
+}
+
+/*** section Article tags ***/
+
+h1 {font-size: 16px; }
+h2 {font-size: 16px; }
+
+
+#content {
+		padding-left: 25px;
+		width: 60%;
+		float: left;
+}
+
+#side{
+	float: right;
+	width: 25%;
+	border: 5px groove blue;
+	margin-right: 5%;
+	padding: 10px 20px;
+	background:#ff4800;
+	border-radius: 15px;
+	-moz-border-radius:15px;  /** Supports OLd versions firefox **/
+	/* 21 Css3 Box-Shadow **/
+	box-shadow: 15px 15px 15px black;
+	-webkit-box-shadow: 15px 15px 15px black;
+}
+
+/*** Adding a Video **/
+#movie {
+	   padding-left: 5%;
+}
+
+/*** 23. Javascript Prep ***/
+#side_two {
+	   float: right;
+	   /*
+	   border: 5px dotted red;
+	   width: 25%;
+	   padding: 6px;
+	   margin-right: 7%;
+	   margin-top: 3%;
+	   background: white;
+	   clear: both;
+	   text-align: center;
+	   background: green;
+	   */
+	   clear:both;
+	   padding-top: 3%;
+	   width: 100px;
+	   height: 100px;
+	   background-color: green;
+	   font-family: arial;
+	   color: white;
+	   transition: width 2s;
+	   
+	   /*
+	   -webkit-transition: -webkit-transform 1s;
+		*/
+		
+       -webkit-transition: width 2s;
+		-o-transition: width 2s;
+		-moz-transition: width 2s;
+}
+
+#side_two:hover{
+	/*
+				-webkit-transform:rotate(360deg);
+				*/
+	width: 300px;
+}
+
+/****  27. Footer Tags ***/
+footer{
+	    clear:both;
+		margin-top: 2%;
+		border-top: 1px #ccc solid;
+		padding: 1%;
+}
+
+.footer-text{
+				font-size: 10px;
+				color: black;
+				text-align: center;
+}

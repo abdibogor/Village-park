@@ -1,0 +1,3 @@
+﻿L'architecture informatique ajax permet de construire des applications web et des sites web dynamiques interdits sur le poste client en se servant de differentes technologies ajoutées aux navigateurs web entre 1995, 2005.
+
+

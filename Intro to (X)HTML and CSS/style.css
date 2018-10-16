@@ -1,0 +1,136 @@
+/*
+author:abdibogoreh
+version: 7.5.6
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	background-image:url("background.jpg");
+	/*background-repeat:no-repeat;*/
+	background-attachment:fixed;
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table{
+	   border-spacing: 5px;
+}
+
+/* external sytle sheet ***/
+ #text {
+	 color: green;
+ }
+ /*** css SElector ***/
+ .word {
+	 color: blue;
+ }
+ 
+ /*** margin ***/
+ #wrapper{
+	  width: 900px;
+	  height: 1000px;
+	  margin: 0px auto;
+	  background-color:#fff;
+ }
+ /**cool trick **/ 
+ #outer{
+	 width: 960;
+	 height: 1000px;
+	 margin: 0px auto;
+	 background-color: #fff;
+ }
+ 
+ /*** padding/float ***/
+ #logo{
+	   padding-top: 15px;
+	   padding-top: 10px;
+	   float: left;
+ } 
+ 
+ /*adding social Media icons */
+#social-media-icons{
+	  float:right;
+}
+
+#social-media-icons ul li{
+	  display: inline;
+}
+
+#social-media-icons  ul{
+	  padding-top: 10px;
+}
+
+#topnav{
+		font-family: Helvetica; 
+		clear:both;
+}
+
+#topnav ul{
+	     border-top: 1px black solid;
+		 border-bottom: 1px black solid;
+		 margin: 20px 0;
+		 padding: 10px 
+}
+
+#topnav ul li{
+	  display:inline;
+}
+
+#content{
+	  width:650px;
+	  float: left;
+}
+
+h1{
+	  
+	}
+
+#footer{	
+      clear:both;
+	  margin-top: 20px;
+	  border-top: 1px solid black;
+	  padding: 20px 0px;
+	  font-size: 80%;
+	  }
