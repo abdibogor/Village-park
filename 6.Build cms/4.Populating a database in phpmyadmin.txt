@@ -1,0 +1,26 @@
+crew new table on database sterling
+name informations	 Number of table 4
+
+field  id
+type int
+length/values 3
+
+default primary
+Index PRIMARY
+Auto-INcrement "coche"
+
+
+field menu 
+type int
+length/value 4
+default primary
+Index PRIMARY
+Auto-increment "coche"
+
+field visible
+type TINYTEXT
+length/values 1
+
+index primary
+AUTO-increment "coche"
+

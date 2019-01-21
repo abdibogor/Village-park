@@ -1,0 +1,24 @@
+Field  			Type          Function  Null
+id     			int(3)  		  2
+information_id int(3)	  			  1
+menu 			varchar(30)		  Mission Statement
+position 	         int(3)			  (2)
+visible		         tinyint(1)		  (1)
+comment  	          text			   our mission statements is if you progressions
+
+
+2
+1
+Mission Statement
+2
+1
+Our mission statement is if you pratice 
+
+3
+2
+New PHP Video
+1
+1
+New PHP video will help you learn PHP
+
+

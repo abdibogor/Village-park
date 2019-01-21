@@ -1,0 +1,16 @@
+phpadmin 
+2. Insert
+
+menu      This is Village Park
+position  1
+visible   1
+
+menu     Videos
+position 2
+visible  1
+
+menu     Services
+position 3
+visible  1
+
+ 

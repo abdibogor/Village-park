@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<title>Chocolate Ice cream | Encinitas Web Design, Development, and SEO</title>
+<meta charset="UTF-8">
+<meta name="keywords" content="Search engine Optimization and other , javascript, bootstrap, jquery and other">
+</head>
+<body>
+
+<a hrf="http://www.twitter.com" target="_blank"><img src="images/vp.jpeg" title="Village Park Soure" alt="VP Source"></a>
+<h1>Search Engine Optimization</h1>
+<h3>By Ch</h3>
+<p>This is our paragraph</p>
+
+</body>
+</html> 
+

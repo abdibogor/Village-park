@@ -1,0 +1,39 @@
+Database: sterling
+
+Create new table on database
+Name:pages  	 Number of fields: 5
+
+Field :        id ,  menu,    position, visible,  content
+Type :         INT,  VARCHAR, 30;	TINYINT,   TEXT
+Length/Values : 3,     30,    3; 	1,	   
+Index: PRIMARY
+auto-increment: coche
+
+		Save 
+
+Structure
+Create new table on database
+Name: users		Number of fields:3
+Okay
+
+ID
+int
+3
+None
+
+Index PRIMARY
+Auto_INCREMENT "coche"
+
+username
+VARCHAR
+50
+none
+
+hashed_password
+VARCHAR
+40
+None
+
+SAVe
+
+

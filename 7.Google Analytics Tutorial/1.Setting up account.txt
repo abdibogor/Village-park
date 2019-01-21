@@ -1,0 +1,5 @@
+create google analytics
+
+click admin
+New account 
+web

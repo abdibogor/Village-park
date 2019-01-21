@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<title>Abdibogoreh</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<a href="http://www.twitter.com"><img src="images/vp.jpeg" title="Village Park Soure" alt="VP Source"></a>
+
+</body>
+</html> 
+

@@ -1,0 +1,4 @@
+MySQL est un système de gestion de bases de données relationnelles. Il est distribué sous une double licence GPL et propriétaire.
+
+localhost:8080/
+phpadmin

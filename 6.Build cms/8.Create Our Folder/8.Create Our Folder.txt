@@ -1,0 +1,9 @@
+Disque local(C):
+xampp
+htdocs
+create folder Village Park 
+then create folder images
+create folder js
+then create folder includes
+
+first.php

@@ -1,0 +1,15 @@
+you can start xamp
+localhost or localhost:8080
+phpadmin
+Inserer
+Fender
+1
+1
+
+Giberson
+2
+1
+
+Fickenbocker
+3
+1

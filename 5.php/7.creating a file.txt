@@ -1,0 +1,5 @@
+you create in file php
+
+<?php 
+   echo "This is our first php file, and I love you";
+?>
